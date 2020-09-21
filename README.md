@@ -3,6 +3,7 @@
                                           =================
 
 **If you are having trouble building this, you can just download a build at                                           <https://www.dropbox.com/sh/pjt2f0hs50iag4j/AAAvBZhCsbmRVUQFwSr5NA9ua?dl=0>**
+[![Run on Repl.it](https://repl.it/badge/github/interl0per/Console-Graphics)](https://repl.it/github/interl0per/Console-Graphics)
 
 A full blown 3D graphics engine that runs in the windows command prompt. 
 3D objects are rendered in real-time as monochromatic ASCII art.
